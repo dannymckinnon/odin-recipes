@@ -1,4 +1,4 @@
-#Odin Recipes
+# Odin Recipes
 
 This is a website of my favorite recipes. 
 
